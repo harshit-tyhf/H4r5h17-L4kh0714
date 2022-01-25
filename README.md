@@ -3,13 +3,21 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=h4r5h17-l4kh0714" alt="h4r5h17-l4kh0714" /></a> </p>
 
+- - 👋 Hi, I’m @H4r5h17-L4kh0714
+
+- 👀 I’m interested in coding, ethical hacking, cricket, science, civics, geography, and maths.
+
+- 💞️ I’m looking to collaborate on making automation projects :)
+
+- 📫 How to reach me ?: Reach me through Discord: Harshit#3096, or email - harshit.lakhotia2007@gmail.com
+
 - 🔭 I’m currently working on **CTFs, Coding, etc.**
 
 - 🌱 I’m currently learning **many things, LOL**
 
 - 🤝 I’m looking for help with **CTFs & Coding**
 
-- 👨‍💻 Most of my projects are available [here.](here.)
+- 👨‍💻 Most of my projects are available **here.**
 
 - 💬 Ask me about **anything. (But not sure if i will answer 🤣)**
 
@@ -20,7 +28,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/h4r5h170203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="h4r5h170203" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/harshit0203 :-}" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="harshit0203 :-}" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
