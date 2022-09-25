@@ -9,11 +9,11 @@
 
 - 📫 How to reach me ?: Reach me through Discord: Harshit#3096, or email - harshit.lakhotia2007@gmail.com
 
-- 🔭 I’m currently working on **CTFs, Coding, etc.**
+- 🔭 I’m currently working on **CTFs, Game Development, etc.**
 
 - 🌱 I’m currently learning **many things, LOL**
 
-- 🤝 I’m looking for help with **CTFs & Coding**
+- 🤝 I’m looking for help with **CTFs & Game Development**
 
 - 👨‍💻 Most of my projects are available **here.**
 
