@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=h4r5h17-l4kh0714" alt="h4r5h17-l4kh0714" /></a> </p>
 
-- 👀 I’m interested in coding, ethical hacking, cricket, science, civics, geography, and maths.
+- 👀 I’m interested in coding, ethical hacking, game development.
 
 - 💞️ I’m looking to collaborate on making automation projects :)
 
