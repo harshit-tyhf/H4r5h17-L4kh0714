@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm H4r5h17-L4kh0714</h1>
+<h1 align="center">Hi 👋, I'm Harshit_Lakhotia</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=h4r5h17-l4kh0714&label=Profile%20views&color=0e75b6&style=flat" alt="h4r5h17-l4kh0714" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=h4r5h17-l4kh0714" alt="h4r5h17-l4kh0714" /></a> </p>
