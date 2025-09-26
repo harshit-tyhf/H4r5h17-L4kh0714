@@ -3,25 +3,27 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=h4r5h17-l4kh0714" alt="h4r5h17-l4kh0714" /></a> </p>
 
-- 👀 I’m interested in coding, ethical hacking, game development.
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5790386" style='border:none;'></iframe>
 
-- 💞️ I’m looking to collaborate on making automation projects :)
+- 👀 I’m interested in coding, CTFs, game development.
+
+- 💞️ I’m looking to collaborate on making automation projects, indie games, CTFs etc. :)
 
 - 📫 How to reach me ?: Reach me through Discord: Harshit#3096, or email - harshit.lakhotia2007@gmail.com
 
-- 🔭 I’m currently working on **CTFs, Game Development, etc.**
+- 🔭 I’m currently working on **Cybersecurity domains such as Reverse Engineering, Steganography, Cryptography, Binary Exploitation, CTFs, Game Development, etc.**
 
-- 🌱 I’m currently learning **many things, LOL**
+- 🌱 I’m currently learning **too many things XD**
 
-- 🤝 I’m looking for help with **CTFs & Game Development**
+- 🤝 I’m looking for help with **CTFs & Game Dev**
 
 - 👨‍💻 Most of my projects are available **here.**
 
-- 💬 Ask me about **anything. (But not sure if i will answer 🤣)**
+- 💬 Ask me about **anything**
 
-- 📫 How to reach me **Harshit.Lakhotia2007@gmail.com**
+- 📫 How to reach me **harshit.lakhotia2007@gmail.com**
 
-- ⚡ Fun fact **You are reading this :)**
+- ⚡ Fun fact **(I don't have one)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
