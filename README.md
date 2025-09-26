@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=h4r5h17-l4kh0714" alt="h4r5h17-l4kh0714" /></a> </p>
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5790386" style='border:none;'></iframe>
+<img src="https://tryhackme-badges.s3.amazonaws.com/harshit.lakhotia2007.png" alt="Your Image Badge" />
 
 - 👀 I’m interested in coding, CTFs, game development.
 
