@@ -21,6 +21,13 @@
 - My projects:
 <a href=""><img src="" alt="Fear Man"></a>
 <a href = "https://github.com/harshit-tyhf/God-s-Hand">God's Hand </a>
+## Projects
+
+| Project | Description |
+|---|---|
+| [**God's Hand**](https://github.com/harshit-tyhf/God-s-Hand) | 2D strategy game built in 24 hrs at TechSolstice Game Jam. Constrained to a single fixed screen with population-management mechanics. |
+| [**Desert Hunt**](https://github.com/harshit-tyhf/Desert-Hunt) | Unreal Engine 5 game featuring a desert environment with a flying carpet inspired from Aladdin demonstrates 3rd person shooting mechanics |
+| [**Fear Man**]() | Android game made with unity inspired from Granny. Puzzle driven escape game demonstrating sound based enemy AI, Item management and Level Design|
 
 - 🌱 I’m currently learning **Unreal Engine, Unity**
 
